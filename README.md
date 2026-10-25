@@ -1,5 +1,7 @@
 # Taller: Descubrimiento y registro en caliente con YARP
 
+# CREADORES: Angel coavas y Juan Ligardo
+
 Gateway en .NET (YARP) + microservicios de Ventas e Inventario en Python. Todo se ejecuta desde cmd.
 
 ## Estructura
