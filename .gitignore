@@ -1,0 +1,8 @@
+.sf/
+
+# .NET
+bin/
+obj/
+
+# Python
+__pycache__/
